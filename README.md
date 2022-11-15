@@ -6,7 +6,7 @@
 </br>
 ## Selecting k=3 with elbow method from WCSS (Within-Cluster Sum of Square) Graph </br> 
 
-## ↓Result below↓ 
+## ↓ Result below ↓ 
 </br>
 ![image](https://user-images.githubusercontent.com/75019129/201911144-500e255c-6e93-4965-ba44-64701d20e10b.png)
 </br>
