@@ -1,4 +1,6 @@
-﻿## K-Means Implementation with Python </br>
+<p align="center">
+
+ ## K-Means Implementation with Python </br>
  Report.pdf shows example usage of my kmeans code</br>
  This implemantation assumes there will be 4 columns</br> report.pdf includes data analysis and compirision between decision tree classifier and k-means clustering
  ## Images</br>
@@ -12,3 +14,4 @@
 </br>
 ![image](https://user-images.githubusercontent.com/75019129/201911167-ae6bc410-cc35-454d-aa45-7194bf511162.png)
 
+</p>
