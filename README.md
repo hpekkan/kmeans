@@ -12,7 +12,5 @@
 
 ![image](https://user-images.githubusercontent.com/75019129/201911144-500e255c-6e93-4965-ba44-64701d20e10b.png)
 </br>
-<p align="center">
 ![image](https://user-images.githubusercontent.com/75019129/201911167-ae6bc410-cc35-454d-aa45-7194bf511162.png)
-</p>
 
